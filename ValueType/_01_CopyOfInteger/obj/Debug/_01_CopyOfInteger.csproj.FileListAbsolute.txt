@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\bin\Debug\_01_CopyOfInteger.exe.config
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\bin\Debug\_01_CopyOfInteger.exe
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\bin\Debug\_01_CopyOfInteger.pdb
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.Properties.Resources.resources
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.ValueTypeForm.resources
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.exe
+D:\choisoobin\HelloWindows\ValueType\_01_CopyOfInteger\obj\Debug\_01_CopyOfInteger.pdb

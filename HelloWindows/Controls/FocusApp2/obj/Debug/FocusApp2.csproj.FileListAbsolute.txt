@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\Controls\FocusApp2\bin\Debug\FocusApp2.exe.config
+D:\choisoobin\HelloWindows\Controls\FocusApp2\bin\Debug\FocusApp2.exe
+D:\choisoobin\HelloWindows\Controls\FocusApp2\bin\Debug\FocusApp2.pdb
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.FocusCorm.resources
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.Properties.Resources.resources
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.exe
+D:\choisoobin\HelloWindows\Controls\FocusApp2\obj\Debug\FocusApp2.pdb

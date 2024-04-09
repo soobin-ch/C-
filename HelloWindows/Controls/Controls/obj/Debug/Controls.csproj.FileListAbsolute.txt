@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\Controls\Controls\bin\Debug\Controls.exe.config
+D:\choisoobin\HelloWindows\Controls\Controls\bin\Debug\Controls.exe
+D:\choisoobin\HelloWindows\Controls\Controls\bin\Debug\Controls.pdb
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.MainForm.resources
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.exe
+D:\choisoobin\HelloWindows\Controls\Controls\obj\Debug\Controls.pdb

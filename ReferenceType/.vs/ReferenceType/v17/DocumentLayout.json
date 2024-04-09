@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\choisoobin\\HelloWindows\\ReferenceType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D75B3E-1819-48DB-BD79-675D561FEA23}|StringMethod\\StringMethod.csproj|d:\\choisoobin\\hellowindows\\referencetype\\stringmethod\\stringappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D75B3E-1819-48DB-BD79-675D561FEA23}|StringMethod\\StringMethod.csproj|solutionrelative:stringmethod\\stringappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D75B3E-1819-48DB-BD79-675D561FEA23}|StringMethod\\StringMethod.csproj|D:\\choisoobin\\HelloWindows\\ReferenceType\\stringmethod\\stringappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5D75B3E-1819-48DB-BD79-675D561FEA23}|StringMethod\\StringMethod.csproj|solutionrelative:stringmethod\\stringappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A80429-74E9-40DD-B871-6A471F94A893}|_02_StringConnection\\_02_StringConnection.csproj|D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_stringconnection\\stringconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A80429-74E9-40DD-B871-6A471F94A893}|_02_StringConnection\\_02_StringConnection.csproj|solutionrelative:_02_stringconnection\\stringconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A80429-74E9-40DD-B871-6A471F94A893}|_02_StringConnection\\_02_StringConnection.csproj|D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_stringconnection\\stringconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A80429-74E9-40DD-B871-6A471F94A893}|_02_StringConnection\\_02_StringConnection.csproj|solutionrelative:_02_stringconnection\\stringconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9767579E-0816-47B8-9D04-42E6F6DFDD68}|_01_ObjectTypeApp\\_01_ObjectTypeApp.csproj|D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_objecttypeapp\\objectappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9767579E-0816-47B8-9D04-42E6F6DFDD68}|_01_ObjectTypeApp\\_01_ObjectTypeApp.csproj|solutionrelative:_01_objecttypeapp\\objectappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9767579E-0816-47B8-9D04-42E6F6DFDD68}|_01_ObjectTypeApp\\_01_ObjectTypeApp.csproj|D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_objecttypeapp\\objectappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9767579E-0816-47B8-9D04-42E6F6DFDD68}|_01_ObjectTypeApp\\_01_ObjectTypeApp.csproj|solutionrelative:_01_objecttypeapp\\objectappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringAppForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\StringMethod\\StringAppForm.cs",
+              "RelativeDocumentMoniker": "StringMethod\\StringAppForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\StringMethod\\StringAppForm.cs",
+              "RelativeToolTip": "StringMethod\\StringAppForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:53:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringAppForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\StringMethod\\StringAppForm.cs",
+              "RelativeDocumentMoniker": "StringMethod\\StringAppForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\StringMethod\\StringAppForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "StringMethod\\StringAppForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:45:50.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringConnectionForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_StringConnection\\StringConnectionForm.cs",
+              "RelativeDocumentMoniker": "_02_StringConnection\\StringConnectionForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_StringConnection\\StringConnectionForm.cs",
+              "RelativeToolTip": "_02_StringConnection\\StringConnectionForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:42:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringConnectionForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_StringConnection\\StringConnectionForm.cs",
+              "RelativeDocumentMoniker": "_02_StringConnection\\StringConnectionForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_02_StringConnection\\StringConnectionForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_02_StringConnection\\StringConnectionForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:37:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectAppForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "RelativeDocumentMoniker": "_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "RelativeToolTip": "_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:17:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectAppForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "RelativeDocumentMoniker": "_01_ObjectTypeApp\\ObjectAppForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\ReferenceType\\_01_ObjectTypeApp\\ObjectAppForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_01_ObjectTypeApp\\ObjectAppForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:10:34.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

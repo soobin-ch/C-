@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\bin\Debug\_02_StringConnection.exe.config
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\bin\Debug\_02_StringConnection.exe
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\bin\Debug\_02_StringConnection.pdb
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.Properties.Resources.resources
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.StringConnectionForm.resources
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.exe
+D:\choisoobin\HelloWindows\ReferenceType\_02_StringConnection\obj\Debug\_02_StringConnection.pdb

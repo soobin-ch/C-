@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\bin\Debug\_02_CopyOfReference.exe.config
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\bin\Debug\_02_CopyOfReference.exe
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\bin\Debug\_02_CopyOfReference.pdb
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.Properties.Resources.resources
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.RefTypeFor.resources
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.exe
+D:\choisoobin\HelloWindows\ValueType\_02_CopyOfReference\obj\Debug\_02_CopyOfReference.pdb

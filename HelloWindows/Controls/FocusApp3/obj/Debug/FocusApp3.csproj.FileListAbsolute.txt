@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\Controls\FocusApp3\bin\Debug\FocusApp3.exe.config
+D:\choisoobin\HelloWindows\Controls\FocusApp3\bin\Debug\FocusApp3.exe
+D:\choisoobin\HelloWindows\Controls\FocusApp3\bin\Debug\FocusApp3.pdb
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.FocusCorm.resources
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.Properties.Resources.resources
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.exe
+D:\choisoobin\HelloWindows\Controls\FocusApp3\obj\Debug\FocusApp3.pdb

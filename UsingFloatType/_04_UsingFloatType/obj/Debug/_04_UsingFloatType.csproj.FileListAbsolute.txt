@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\bin\Debug\_04_UsingFloatType.exe.config
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\bin\Debug\_04_UsingFloatType.exe
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\bin\Debug\_04_UsingFloatType.pdb
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.FloatForm.resources
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.exe
+D:\choisoobin\HelloWindows\_04_UsingFloatType\_04_UsingFloatType\obj\Debug\_04_UsingFloatType.pdb

@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\bin\Debug\ErrorCircleRadius.exe.config
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\bin\Debug\ErrorCircleRadius.exe
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\bin\Debug\ErrorCircleRadius.pdb
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.CircleWidth.resources
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.exe
+D:\choisoobin\HelloWindows\_04_UsingFloatType\ErrorCircleRadius\obj\Debug\ErrorCircleRadius.pdb

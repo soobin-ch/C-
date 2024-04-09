@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AAA347-5FA4-44F1-B8AD-4FA999DEF159}|ErrorCircleRadius\\ErrorCircleRadius.csproj|d:\\choisoobin\\hellowindows\\usingfloattype\\errorcircleradius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AAA347-5FA4-44F1-B8AD-4FA999DEF159}|ErrorCircleRadius\\ErrorCircleRadius.csproj|solutionrelative:errorcircleradius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AAA347-5FA4-44F1-B8AD-4FA999DEF159}|ErrorCircleRadius\\ErrorCircleRadius.csproj|D:\\choisoobin\\HelloWindows\\UsingFloatType\\errorcircleradius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5AAA347-5FA4-44F1-B8AD-4FA999DEF159}|ErrorCircleRadius\\ErrorCircleRadius.csproj|solutionrelative:errorcircleradius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487A983-FC52-4C82-8B7B-D2087CB6220B}|UsingDecimalType\\UsingDecimalType.csproj|D:\\choisoobin\\HelloWindows\\UsingFloatType\\usingdecimaltype\\decimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487A983-FC52-4C82-8B7B-D2087CB6220B}|UsingDecimalType\\UsingDecimalType.csproj|solutionrelative:usingdecimaltype\\decimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46E5A8-B8D4-4E6A-B542-E8F125F8546F}|_04_UsingFloatType\\_04_UsingFloatType.csproj|D:\\choisoobin\\HelloWindows\\UsingFloatType\\_04_usingfloattype\\floatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF46E5A8-B8D4-4E6A-B542-E8F125F8546F}|_04_UsingFloatType\\_04_UsingFloatType.csproj|solutionrelative:_04_usingfloattype\\floatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487A983-FC52-4C82-8B7B-D2087CB6220B}|UsingDecimalType\\UsingDecimalType.csproj|D:\\choisoobin\\HelloWindows\\UsingFloatType\\usingdecimaltype\\decimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7487A983-FC52-4C82-8B7B-D2087CB6220B}|UsingDecimalType\\UsingDecimalType.csproj|solutionrelative:usingdecimaltype\\decimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF46E5A8-B8D4-4E6A-B542-E8F125F8546F}|_04_UsingFloatType\\_04_UsingFloatType.csproj|D:\\choisoobin\\HelloWindows\\UsingFloatType\\_04_usingfloattype\\floatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF46E5A8-B8D4-4E6A-B542-E8F125F8546F}|_04_UsingFloatType\\_04_UsingFloatType.csproj|solutionrelative:_04_usingfloattype\\floatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\ErrorCircleRadius\\Form1.cs",
+              "RelativeDocumentMoniker": "ErrorCircleRadius\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\ErrorCircleRadius\\Form1.cs",
+              "RelativeToolTip": "ErrorCircleRadius\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:58:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\ErrorCircleRadius\\Form1.cs",
+              "RelativeDocumentMoniker": "ErrorCircleRadius\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_UsingFloatType\\ErrorCircleRadius\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\_04_UsingFloatType\\ErrorCircleRadius\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:51:26.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecimalForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\UsingDecimalType\\DecimalForm.cs",
+              "RelativeDocumentMoniker": "UsingDecimalType\\DecimalForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\UsingDecimalType\\DecimalForm.cs",
+              "RelativeToolTip": "UsingDecimalType\\DecimalForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:35:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecimalForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\UsingDecimalType\\DecimalForm.cs",
+              "RelativeDocumentMoniker": "UsingDecimalType\\DecimalForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_UsingFloatType\\UsingDecimalType\\DecimalForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\_04_UsingFloatType\\UsingDecimalType\\DecimalForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:31:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloatForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\_04_UsingFloatType\\FloatForm.cs",
+              "RelativeDocumentMoniker": "_04_UsingFloatType\\FloatForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\_04_UsingFloatType\\FloatForm.cs",
+              "RelativeToolTip": "_04_UsingFloatType\\FloatForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:09:48.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FloatForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\UsingFloatType\\_04_UsingFloatType\\FloatForm.cs",
+              "RelativeDocumentMoniker": "_04_UsingFloatType\\FloatForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_UsingFloatType\\_04_UsingFloatType\\FloatForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\_04_UsingFloatType\\_04_UsingFloatType\\FloatForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:02:56.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

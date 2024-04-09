@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\HelloWindows2\bin\Debug\HelloWindows2.exe.config
+D:\choisoobin\HelloWindows\HelloWindows2\bin\Debug\HelloWindows2.exe
+D:\choisoobin\HelloWindows\HelloWindows2\bin\Debug\HelloWindows2.pdb
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.MainForm.resources
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.Properties.Resources.resources
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.exe
+D:\choisoobin\HelloWindows\HelloWindows2\obj\Debug\HelloWindows2.pdb

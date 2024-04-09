@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\bin\Debug\StringMethod.exe.config
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\bin\Debug\StringMethod.exe
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\bin\Debug\StringMethod.pdb
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.Properties.Resources.resources
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.StringAppForm.resources
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.exe
+D:\choisoobin\HelloWindows\ReferenceType\StringMethod\obj\Debug\StringMethod.pdb

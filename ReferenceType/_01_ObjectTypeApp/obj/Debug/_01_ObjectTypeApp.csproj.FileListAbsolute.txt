@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\bin\Debug\_01_ObjectTypeApp.exe.config
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\bin\Debug\_01_ObjectTypeApp.exe
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\bin\Debug\_01_ObjectTypeApp.pdb
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.ObjectAppForm.resources
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.Properties.Resources.resources
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.exe
+D:\choisoobin\HelloWindows\ReferenceType\_01_ObjectTypeApp\obj\Debug\_01_ObjectTypeApp.pdb

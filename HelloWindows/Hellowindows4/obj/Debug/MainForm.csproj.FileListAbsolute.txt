@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\Hellowindows4\bin\Debug\Hellowindows4.exe.config
+D:\choisoobin\HelloWindows\Hellowindows4\bin\Debug\Hellowindows4.exe
+D:\choisoobin\HelloWindows\Hellowindows4\bin\Debug\Hellowindows4.pdb
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\Hellowindows4.MainForm.resources
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\Hellowindows4.Properties.Resources.resources
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\Hellowindows4.exe
+D:\choisoobin\HelloWindows\Hellowindows4\obj\Debug\Hellowindows4.pdb
