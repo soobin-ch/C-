@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\bin\Debug\_01_ArithmeticOperators.exe.config
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\bin\Debug\_01_ArithmeticOperators.exe
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\bin\Debug\_01_ArithmeticOperators.pdb
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.ArithmeticForm.resources
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.Properties.Resources.resources
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.exe
+D:\choisoobin\HelloWindows\Operators\_01_ArithmeticOperators\obj\Debug\_01_ArithmeticOperators.pdb

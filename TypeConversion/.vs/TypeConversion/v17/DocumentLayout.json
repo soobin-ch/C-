@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\choisoobin\\C#\\TypeConversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02337CD2-6C4D-4725-B20F-F8EB56E3BC22}|VariableScope\\VariableScope.csproj|d:\\choisoobin\\c#\\typeconversion\\variablescope\\variablescopeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02337CD2-6C4D-4725-B20F-F8EB56E3BC22}|VariableScope\\VariableScope.csproj|solutionrelative:variablescope\\variablescopeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02337CD2-6C4D-4725-B20F-F8EB56E3BC22}|VariableScope\\VariableScope.csproj|D:\\choisoobin\\C#\\TypeConversion\\variablescope\\variablescopeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02337CD2-6C4D-4725-B20F-F8EB56E3BC22}|VariableScope\\VariableScope.csproj|solutionrelative:variablescope\\variablescopeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43384969-EA7F-4760-BC79-F63F23ABEFE4}|TypeConversion\\TypeConversion.csproj|D:\\choisoobin\\C#\\TypeConversion\\typeconversion\\typeconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43384969-EA7F-4760-BC79-F63F23ABEFE4}|TypeConversion\\TypeConversion.csproj|solutionrelative:typeconversion\\typeconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43384969-EA7F-4760-BC79-F63F23ABEFE4}|TypeConversion\\TypeConversion.csproj|D:\\choisoobin\\C#\\TypeConversion\\typeconversion\\typeconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43384969-EA7F-4760-BC79-F63F23ABEFE4}|TypeConversion\\TypeConversion.csproj|solutionrelative:typeconversion\\typeconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VariableScopeForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\C#\\TypeConversion\\VariableScope\\VariableScopeForm.cs",
+              "RelativeDocumentMoniker": "VariableScope\\VariableScopeForm.cs",
+              "ToolTip": "D:\\choisoobin\\C#\\TypeConversion\\VariableScope\\VariableScopeForm.cs",
+              "RelativeToolTip": "VariableScope\\VariableScopeForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:43:33.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VariableScopeForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\C#\\TypeConversion\\VariableScope\\VariableScopeForm.cs",
+              "RelativeDocumentMoniker": "VariableScope\\VariableScopeForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\TypeConversion\\VariableScope\\VariableScopeForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\HelloWindows\\TypeConversion\\VariableScope\\VariableScopeForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:22:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeConvForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\C#\\TypeConversion\\TypeConversion\\TypeConvForm.cs",
+              "RelativeDocumentMoniker": "TypeConversion\\TypeConvForm.cs",
+              "ToolTip": "D:\\choisoobin\\C#\\TypeConversion\\TypeConversion\\TypeConvForm.cs",
+              "RelativeToolTip": "TypeConversion\\TypeConvForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:15:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeConvForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\C#\\TypeConversion\\TypeConversion\\TypeConvForm.cs",
+              "RelativeDocumentMoniker": "TypeConversion\\TypeConvForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\TypeConversion\\TypeConversion\\TypeConvForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\HelloWindows\\TypeConversion\\TypeConversion\\TypeConvForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T04:49:46.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

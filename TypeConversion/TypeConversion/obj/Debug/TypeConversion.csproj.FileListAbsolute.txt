@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.Properties.Resources.resources
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.TypeConvForm.resources
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+D:\choisoobin\HelloWindows\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

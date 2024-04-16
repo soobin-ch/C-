@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\choisoobin\\HelloWindows\\Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|d:\\choisoobin\\hellowindows\\operators\\_02_incrementdecrementoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|solutionrelative:_02_incrementdecrementoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|d:\\choisoobin\\hellowindows\\operators\\_02_incrementdecrementoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|solutionrelative:_02_incrementdecrementoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|d:\\choisoobin\\hellowindows\\operators\\_02_incrementdecrementoperators\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A722D517-4F9D-4F8C-B9A7-CA8BEFC51F16}|_02_IncrementDecrementOperators\\_02_IncrementDecrementOperators.csproj|solutionrelative:_02_incrementdecrementoperators\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B847A8-3C69-46D2-A213-0CAC252BB227}|_01_ArithmeticOperators\\_01_ArithmeticOperators.csproj|d:\\choisoobin\\hellowindows\\operators\\_01_arithmeticoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B847A8-3C69-46D2-A213-0CAC252BB227}|_01_ArithmeticOperators\\_01_ArithmeticOperators.csproj|solutionrelative:_01_arithmeticoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B847A8-3C69-46D2-A213-0CAC252BB227}|_01_ArithmeticOperators\\_01_ArithmeticOperators.csproj|d:\\choisoobin\\hellowindows\\operators\\_01_arithmeticoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83B847A8-3C69-46D2-A213-0CAC252BB227}|_01_ArithmeticOperators\\_01_ArithmeticOperators.csproj|solutionrelative:_01_arithmeticoperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_02_IncrementDecrementOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.cs",
+              "RelativeToolTip": "_02_IncrementDecrementOperators\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwDEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:35:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "_02_IncrementDecrementOperators\\Form1.Designer.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.Designer.cs",
+              "RelativeToolTip": "_02_IncrementDecrementOperators\\Form1.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:34:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_02_IncrementDecrementOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\Operators\\_02_IncrementDecrementOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_02_IncrementDecrementOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:29:08.228Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\Operators\\_01_ArithmeticOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_01_ArithmeticOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\Operators\\_01_ArithmeticOperators\\Form1.cs",
+              "RelativeToolTip": "_01_ArithmeticOperators\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:19:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\Operators\\_01_ArithmeticOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_01_ArithmeticOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\Operators\\_01_ArithmeticOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_01_ArithmeticOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:55:54.296Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
