@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\bin\Debug\_07_BaseConversion.exe.config
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\bin\Debug\_07_BaseConversion.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\bin\Debug\_07_BaseConversion.pdb
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.BaseConvForm.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_07_BaseConversion\obj\Debug\_07_BaseConversion.pdb

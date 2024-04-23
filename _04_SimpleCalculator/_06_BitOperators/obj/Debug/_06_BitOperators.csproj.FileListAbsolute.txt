@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\bin\Debug\_06_BitOperators.exe.config
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\bin\Debug\_06_BitOperators.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\bin\Debug\_06_BitOperators.pdb
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.NetworkIdForm.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_06_BitOperators\obj\Debug\_06_BitOperators.pdb

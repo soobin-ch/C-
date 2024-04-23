@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\bin\Debug\_08_ComplexAssignment.exe.config
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\bin\Debug\_08_ComplexAssignment.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\bin\Debug\_08_ComplexAssignment.pdb
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.TextAddForm.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_08_ComplexAssignment\obj\Debug\_08_ComplexAssignment.pdb

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4FE1BB-A1FC-458F-9F81-219FBE046489}|_07_BaseConversion\\_07_BaseConversion.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_07_baseconversion\\baseconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4FE1BB-A1FC-458F-9F81-219FBE046489}|_07_BaseConversion\\_07_BaseConversion.csproj|solutionrelative:_07_baseconversion\\baseconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE35F1E-01E4-424B-92A1-60C8CD84DCFF}|_06_BitOperators\\_06_BitOperators.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_06_bitoperators\\networkidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DE35F1E-01E4-424B-92A1-60C8CD84DCFF}|_06_BitOperators\\_06_BitOperators.csproj|solutionrelative:_06_bitoperators\\networkidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4FE1BB-A1FC-458F-9F81-219FBE046489}|_07_BaseConversion\\_07_BaseConversion.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_07_baseconversion\\baseconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4FE1BB-A1FC-458F-9F81-219FBE046489}|_07_BaseConversion\\_07_BaseConversion.csproj|solutionrelative:_07_baseconversion\\baseconvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050A44D-87B4-4A57-82E3-341759A9A7A7}|_08_ComplexAssignment\\_08_ComplexAssignment.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_08_complexassignment\\textaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3050A44D-87B4-4A57-82E3-341759A9A7A7}|_08_ComplexAssignment\\_08_ComplexAssignment.csproj|solutionrelative:_08_complexassignment\\textaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3050A44D-87B4-4A57-82E3-341759A9A7A7}|_08_ComplexAssignment\\_08_ComplexAssignment.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_08_complexassignment\\textaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3050A44D-87B4-4A57-82E3-341759A9A7A7}|_08_ComplexAssignment\\_08_ComplexAssignment.csproj|solutionrelative:_08_complexassignment\\textaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE35F1E-01E4-424B-92A1-60C8CD84DCFF}|_06_BitOperators\\_06_BitOperators.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_06_bitoperators\\networkidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE35F1E-01E4-424B-92A1-60C8CD84DCFF}|_06_BitOperators\\_06_BitOperators.csproj|solutionrelative:_06_bitoperators\\networkidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C5FC2-815B-486F-9885-18F21E9B229B}|_05_LogicalOperators\\_05_LogicalOperators.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_05_logicaloperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C5FC2-815B-486F-9885-18F21E9B229B}|_05_LogicalOperators\\_05_LogicalOperators.csproj|solutionrelative:_05_logicaloperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C5FC2-815B-486F-9885-18F21E9B229B}|_05_LogicalOperators\\_05_LogicalOperators.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_05_logicaloperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{497C5FC2-815B-486F-9885-18F21E9B229B}|_05_LogicalOperators\\_05_LogicalOperators.csproj|solutionrelative:_05_logicaloperators\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC395A1-1F53-4273-B252-8C61BC197F9E}|_04_SimpleCalculator\\_04_SimpleCalculator.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_04_simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC395A1-1F53-4273-B252-8C61BC197F9E}|_04_SimpleCalculator\\_04_SimpleCalculator.csproj|solutionrelative:_04_simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC395A1-1F53-4273-B252-8C61BC197F9E}|_04_SimpleCalculator\\_04_SimpleCalculator.csproj|d:\\choisoobin\\hellowindows\\_04_simplecalculator\\_04_simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC395A1-1F53-4273-B252-8C61BC197F9E}|_04_SimpleCalculator\\_04_SimpleCalculator.csproj|solutionrelative:_04_simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextAddForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_08_ComplexAssignment\\TextAddForm.cs",
+              "RelativeDocumentMoniker": "_08_ComplexAssignment\\TextAddForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_08_ComplexAssignment\\TextAddForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_08_ComplexAssignment\\TextAddForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:35:28.794Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseConvForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_07_BaseConversion\\BaseConvForm.cs",
+              "RelativeDocumentMoniker": "_07_BaseConversion\\BaseConvForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_07_BaseConversion\\BaseConvForm.cs",
+              "RelativeToolTip": "_07_BaseConversion\\BaseConvForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:21:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseConvForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_07_BaseConversion\\BaseConvForm.cs",
+              "RelativeDocumentMoniker": "_07_BaseConversion\\BaseConvForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_07_BaseConversion\\BaseConvForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_07_BaseConversion\\BaseConvForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:06:45.246Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkIdForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_06_BitOperators\\NetworkIdForm.cs",
+              "RelativeDocumentMoniker": "_06_BitOperators\\NetworkIdForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_06_BitOperators\\NetworkIdForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_06_BitOperators\\NetworkIdForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:46:49.979Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextAddForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_08_ComplexAssignment\\TextAddForm.cs",
+              "RelativeDocumentMoniker": "_08_ComplexAssignment\\TextAddForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_08_ComplexAssignment\\TextAddForm.cs",
+              "RelativeToolTip": "_08_ComplexAssignment\\TextAddForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:40:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkIdForm.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_06_BitOperators\\NetworkIdForm.cs",
+              "RelativeDocumentMoniker": "_06_BitOperators\\NetworkIdForm.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_06_BitOperators\\NetworkIdForm.cs",
+              "RelativeToolTip": "_06_BitOperators\\NetworkIdForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:58:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_05_LogicalOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_05_LogicalOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_05_LogicalOperators\\Form1.cs",
+              "RelativeToolTip": "_05_LogicalOperators\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:30:58.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_05_LogicalOperators\\Form1.cs",
+              "RelativeDocumentMoniker": "_05_LogicalOperators\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_05_LogicalOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_05_LogicalOperators\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:14:44.371Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_04_SimpleCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "_04_SimpleCalculator\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_04_SimpleCalculator\\Form1.cs",
+              "RelativeToolTip": "_04_SimpleCalculator\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:03:25.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_04_SimpleCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "_04_SimpleCalculator\\Form1.cs",
+              "ToolTip": "D:\\choisoobin\\HelloWindows\\_04_SimpleCalculator\\_04_SimpleCalculator\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_04_SimpleCalculator\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:48:42.068Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

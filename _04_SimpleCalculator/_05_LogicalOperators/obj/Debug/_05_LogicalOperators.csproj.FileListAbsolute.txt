@@ -1,0 +1,10 @@
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\bin\Debug\_05_LogicalOperators.exe.config
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\bin\Debug\_05_LogicalOperators.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\bin\Debug\_05_LogicalOperators.pdb
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.csproj.AssemblyReference.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.LogicalOpForm.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.Properties.Resources.resources
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.csproj.GenerateResource.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.csproj.CoreCompileInputs.cache
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.exe
+D:\choisoobin\HelloWindows\_04_SimpleCalculator\_05_LogicalOperators\obj\Debug\_05_LogicalOperators.pdb

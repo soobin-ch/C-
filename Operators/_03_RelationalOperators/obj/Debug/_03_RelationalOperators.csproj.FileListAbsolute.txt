@@ -1,0 +1,10 @@
+D:\choisoobin\C#\Operators\_03_RelationalOperators\bin\Debug\_03_RelationalOperators.exe.config
+D:\choisoobin\C#\Operators\_03_RelationalOperators\bin\Debug\_03_RelationalOperators.exe
+D:\choisoobin\C#\Operators\_03_RelationalOperators\bin\Debug\_03_RelationalOperators.pdb
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.csproj.AssemblyReference.cache
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.RelatonalOpForm.resources
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.Properties.Resources.resources
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.csproj.GenerateResource.cache
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.csproj.CoreCompileInputs.cache
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.exe
+D:\choisoobin\C#\Operators\_03_RelationalOperators\obj\Debug\_03_RelationalOperators.pdb
