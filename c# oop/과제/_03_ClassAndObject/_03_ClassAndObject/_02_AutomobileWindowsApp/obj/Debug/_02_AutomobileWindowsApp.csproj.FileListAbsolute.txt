@@ -1,0 +1,19 @@
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.exe.config
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.exe
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.pdb
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.csprojAssemblyReference.cache
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.AutomobileForm.resources
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.Properties.Resources.resources
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.csproj.GenerateResource.cache
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.exe
+D:\Programming\2020-OOP\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.pdb
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.exe.config
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.exe
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\bin\Debug\_02_AutomobileWindowsApp.pdb
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.csproj.AssemblyReference.cache
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.AutomobileForm.resources
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.Properties.Resources.resources
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.csproj.GenerateResource.cache
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.csproj.CoreCompileInputs.cache
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.exe
+D:\c#\c# oop\과제\_03_ClassAndObject\_03_ClassAndObject\_02_AutomobileWindowsApp\obj\Debug\_02_AutomobileWindowsApp.pdb

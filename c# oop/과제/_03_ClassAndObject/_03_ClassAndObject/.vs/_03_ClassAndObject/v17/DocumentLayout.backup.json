@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C603C283-C8E4-468D-A685-5813406A58DA}|FriendProfile\\FriendProfile.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_03_classandobject\\_03_classandobject\\friendprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C603C283-C8E4-468D-A685-5813406A58DA}|FriendProfile\\FriendProfile.csproj|solutionrelative:friendprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C603C283-C8E4-468D-A685-5813406A58DA}|FriendProfile\\FriendProfile.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_03_classandobject\\_03_classandobject\\friendprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C603C283-C8E4-468D-A685-5813406A58DA}|FriendProfile\\FriendProfile.csproj|solutionrelative:friendprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4DBE1-11FA-40EA-9427-1F9F44F984CC}|_03_MultiObjectCreation\\_03_MultiObjectCreation.csproj|D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_03_multiobjectcreation\\multiobjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4DBE1-11FA-40EA-9427-1F9F44F984CC}|_03_MultiObjectCreation\\_03_MultiObjectCreation.csproj|solutionrelative:_03_multiobjectcreation\\multiobjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E816546E-6580-4D46-8D35-BB2CEB3BF439}|_04_Constructor\\_04_Constructor.csproj|D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_04_constructor\\constructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E816546E-6580-4D46-8D35-BB2CEB3BF439}|_04_Constructor\\_04_Constructor.csproj|solutionrelative:_04_constructor\\constructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E12C16C-99A7-4161-A43B-6A4285A1901F}|_02_AutomobileWindowsApp\\_02_AutomobileWindowsApp.csproj|D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_02_automobilewindowsapp\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E12C16C-99A7-4161-A43B-6A4285A1901F}|_02_AutomobileWindowsApp\\_02_AutomobileWindowsApp.csproj|solutionrelative:_02_automobilewindowsapp\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\FriendProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "FriendProfile\\Form1.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\FriendProfile\\Form1.cs",
+              "RelativeToolTip": "FriendProfile\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:09:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\FriendProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "FriendProfile\\Form1.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\FriendProfile\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FriendProfile\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:03:55.445Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiObjectForm.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_03_MultiObjectCreation\\MultiObjectForm.cs",
+              "RelativeDocumentMoniker": "_03_MultiObjectCreation\\MultiObjectForm.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_03_MultiObjectCreation\\MultiObjectForm.cs",
+              "RelativeToolTip": "_03_MultiObjectCreation\\MultiObjectForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:26:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstructorForm.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_04_Constructor\\ConstructorForm.cs",
+              "RelativeDocumentMoniker": "_04_Constructor\\ConstructorForm.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_04_Constructor\\ConstructorForm.cs",
+              "RelativeToolTip": "_04_Constructor\\ConstructorForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:42:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_02_AutomobileWindowsApp\\Automobile.cs",
+              "RelativeDocumentMoniker": "_02_AutomobileWindowsApp\\Automobile.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_03_ClassAndObject\\_03_ClassAndObject\\_02_AutomobileWindowsApp\\Automobile.cs",
+              "RelativeToolTip": "_02_AutomobileWindowsApp\\Automobile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:59:59.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
