@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\bin\Debug\MusicianManager.exe.config
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\bin\Debug\MusicianManager.exe
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\bin\Debug\MusicianManager.pdb
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\obj\Debug\MusicianManager.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\obj\Debug\MusicianManager.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\obj\Debug\MusicianManager.exe
+C:\Users\soobi\source\repos\MyName\MusicianManager\MusicianManager\obj\Debug\MusicianManager.pdb

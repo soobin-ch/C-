@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\bin\Debug\_01_StaticMember.exe.config
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\bin\Debug\_01_StaticMember.exe
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\bin\Debug\_01_StaticMember.pdb
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\obj\Debug\_01_StaticMember.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\obj\Debug\_01_StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\obj\Debug\_01_StaticMember.exe
+C:\Users\user\Downloads\_10_StaticMembers\_01_StaticMember\obj\Debug\_01_StaticMember.pdb

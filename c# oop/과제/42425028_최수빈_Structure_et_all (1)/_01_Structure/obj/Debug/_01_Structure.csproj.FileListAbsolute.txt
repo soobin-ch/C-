@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\bin\Debug\_01_Structure.exe.config
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\bin\Debug\_01_Structure.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\bin\Debug\_01_Structure.pdb
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\obj\Debug\_01_Structure.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\obj\Debug\_01_Structure.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\obj\Debug\_01_Structure.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_01_Structure\obj\Debug\_01_Structure.pdb

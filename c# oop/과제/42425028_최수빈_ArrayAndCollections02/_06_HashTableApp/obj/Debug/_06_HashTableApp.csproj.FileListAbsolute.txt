@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\bin\Debug\_06_HashTableApp.exe.config
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\bin\Debug\_06_HashTableApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\bin\Debug\_06_HashTableApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\obj\Debug\_06_HashTableApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\obj\Debug\_06_HashTableApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\obj\Debug\_06_HashTableApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_06_HashTableApp\obj\Debug\_06_HashTableApp.pdb

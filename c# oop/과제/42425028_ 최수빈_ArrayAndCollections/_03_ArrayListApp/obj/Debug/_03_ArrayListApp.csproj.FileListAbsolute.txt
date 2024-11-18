@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\bin\Debug\_03_ArrayListApp.exe.config
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\bin\Debug\_03_ArrayListApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\bin\Debug\_03_ArrayListApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\obj\Debug\_03_ArrayListApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\obj\Debug\_03_ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\obj\Debug\_03_ArrayListApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_03_ArrayListApp\obj\Debug\_03_ArrayListApp.pdb

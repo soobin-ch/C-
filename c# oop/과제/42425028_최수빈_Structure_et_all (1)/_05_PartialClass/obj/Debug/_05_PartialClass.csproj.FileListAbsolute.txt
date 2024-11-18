@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\bin\Debug\_05_PartialClass.exe.config
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\bin\Debug\_05_PartialClass.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\bin\Debug\_05_PartialClass.pdb
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\obj\Debug\_05_PartialClass.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\obj\Debug\_05_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\obj\Debug\_05_PartialClass.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_05_PartialClass\obj\Debug\_05_PartialClass.pdb

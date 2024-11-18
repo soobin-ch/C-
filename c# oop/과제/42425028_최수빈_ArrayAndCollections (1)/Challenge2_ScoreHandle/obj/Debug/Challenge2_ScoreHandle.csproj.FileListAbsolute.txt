@@ -1,0 +1,10 @@
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\bin\Debug\Challenge2_ScoreHandle.exe.config
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\bin\Debug\Challenge2_ScoreHandle.exe
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\bin\Debug\Challenge2_ScoreHandle.pdb
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.csproj.AssemblyReference.cache
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.ScoreForm2.resources
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.Properties.Resources.resources
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.csproj.GenerateResource.cache
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.csproj.CoreCompileInputs.cache
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.exe
+C:\Users\soobi\Downloads\42425028_최수빈_Challenge02\Challenge2_ScoreHandle\obj\Debug\Challenge2_ScoreHandle.pdb

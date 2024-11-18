@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\bin\Debug\_02_StaticMethod.exe.config
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\bin\Debug\_02_StaticMethod.exe
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\bin\Debug\_02_StaticMethod.pdb
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\obj\Debug\_02_StaticMethod.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\obj\Debug\_02_StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\obj\Debug\_02_StaticMethod.exe
+C:\Users\user\Downloads\_10_StaticMembers\_02_StaticMethod\obj\Debug\_02_StaticMethod.pdb

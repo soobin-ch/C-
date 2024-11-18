@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\bin\Debug\AutoCarManager.exe.config
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\bin\Debug\AutoCarManager.exe
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\bin\Debug\AutoCarManager.pdb
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\obj\Debug\AutoCarManager.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\obj\Debug\AutoCarManager.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\obj\Debug\AutoCarManager.exe
+C:\Users\soobi\source\repos\MyName\AutoCarManager\AutoCarManager\obj\Debug\AutoCarManager.pdb

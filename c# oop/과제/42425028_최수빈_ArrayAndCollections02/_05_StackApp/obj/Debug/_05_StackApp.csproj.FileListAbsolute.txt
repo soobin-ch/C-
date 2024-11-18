@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\bin\Debug\_05_StackApp.exe.config
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\bin\Debug\_05_StackApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\bin\Debug\_05_StackApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\obj\Debug\_05_StackApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\obj\Debug\_05_StackApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\obj\Debug\_05_StackApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_05_StackApp\obj\Debug\_05_StackApp.pdb

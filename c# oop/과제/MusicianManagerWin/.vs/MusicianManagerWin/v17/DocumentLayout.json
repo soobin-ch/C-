@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\drummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\drummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\guitarist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\guitarist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\vocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\vocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|c:\\users\\soobi\\source\\repos\\myname\\musicianmanagerwin\\musicianmanagerwin\\pianist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FDE301-3D2C-46A9-95A7-395B856C50D0}|MusicianManagerWin\\MusicianManagerWin.csproj|solutionrelative:musicianmanagerwin\\pianist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Form1.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Form1.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:54:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musician.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Musician.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Musician.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Musician.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Musician.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:29:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Form1.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MusicianManagerWin\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:21:49.047Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guitarist.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Guitarist.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Guitarist.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Guitarist.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Guitarist.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:29:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drummer.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Drummer.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Drummer.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Drummer.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Drummer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:29:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pianist.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Pianist.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Pianist.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Pianist.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Pianist.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:36:45.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vocal.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Vocal.cs",
+              "RelativeDocumentMoniker": "MusicianManagerWin\\Vocal.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\MusicianManagerWin\\MusicianManagerWin\\Vocal.cs",
+              "RelativeToolTip": "MusicianManagerWin\\Vocal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:29:47.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

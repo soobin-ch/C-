@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\Downloads\\_05_Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\personmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\personmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\personmanager\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|c:\\users\\x\\downloads\\_05_inheritance\\personmanager\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DD1C26-D34E-4A0A-AB3A-01B8A5D88C69}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\inheritanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\inheritanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\inheritanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\inheritanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_inheritanceconsoleapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|solutionrelative:_01_inheritanceconsoleapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_inheritanceconsoleapp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|solutionrelative:_01_inheritanceconsoleapp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_inheritanceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AEB98-1D13-4522-B34E-EC7E20F5149C}|_01_InheritanceConsoleApp\\_01_InheritanceConsoleApp.csproj|solutionrelative:_01_inheritanceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_inheritancewindowsapp\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B34755-1F78-41ED-AF46-CE0E838DC805}|_02_InheritanceWindowsApp\\_02_InheritanceWindowsApp.csproj|solutionrelative:_02_inheritancewindowsapp\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Person.cs",
+              "RelativeDocumentMoniker": "PersonManager\\Person.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Person.cs",
+              "RelativeToolTip": "PersonManager\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:39:15.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Employee.cs",
+              "RelativeDocumentMoniker": "PersonManager\\Employee.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Employee.cs",
+              "RelativeToolTip": "PersonManager\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:38:36.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Student.cs",
+              "RelativeDocumentMoniker": "PersonManager\\Student.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Student.cs",
+              "RelativeToolTip": "PersonManager\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:37:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Program.cs",
+              "RelativeDocumentMoniker": "PersonManager\\Program.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\PersonManager\\Program.cs",
+              "RelativeToolTip": "PersonManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:37:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Truck.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\Truck.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Truck.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:58:04.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Vehicle.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Vehicle.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:58:05.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Car.cs",
+              "RelativeDocumentMoniker": "_01_InheritanceConsoleApp\\Car.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Car.cs",
+              "RelativeToolTip": "_01_InheritanceConsoleApp\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:55:40.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "_01_InheritanceConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Program.cs",
+              "RelativeToolTip": "_01_InheritanceConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:53:33.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Program.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Program.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:51:20.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Vehicle.cs",
+              "RelativeDocumentMoniker": "_01_InheritanceConsoleApp\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_01_InheritanceConsoleApp\\Vehicle.cs",
+              "RelativeToolTip": "_01_InheritanceConsoleApp\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:53:50.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InheritanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:51:23.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InheritanceForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\InheritanceForm.cs",
+              "ToolTip": "C:\\Users\\user\\Videos\\_05_Inheritance\\_02_InheritanceWindowsApp\\InheritanceForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\user\\Videos\\_05_Inheritance\\_02_InheritanceWindowsApp\\InheritanceForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:51:21.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Bus.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\Bus.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Bus.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:43:46.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Car.cs",
+              "RelativeDocumentMoniker": "_02_InheritanceWindowsApp\\Car.cs",
+              "ToolTip": "C:\\Users\\X\\Downloads\\_05_Inheritance\\_02_InheritanceWindowsApp\\Car.cs",
+              "RelativeToolTip": "_02_InheritanceWindowsApp\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:43:48.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

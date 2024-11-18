@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\bin\Debug\PegasusApp.exe.config
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\bin\Debug\PegasusApp.exe
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\bin\Debug\PegasusApp.pdb
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\obj\Debug\PegasusApp.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\obj\Debug\PegasusApp.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\obj\Debug\PegasusApp.exe
+C:\Users\soobi\source\repos\MyName\PegasusApp\PegasusApp\obj\Debug\PegasusApp.pdb

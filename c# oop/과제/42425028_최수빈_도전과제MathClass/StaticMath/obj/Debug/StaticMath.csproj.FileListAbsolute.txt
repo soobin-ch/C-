@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\bin\Debug\StaticMath.exe.config
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\bin\Debug\StaticMath.exe
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\bin\Debug\StaticMath.pdb
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\obj\Debug\StaticMath.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\obj\Debug\StaticMath.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\obj\Debug\StaticMath.exe
+C:\Users\soobi\source\repos\MyName\StaticMath\StaticMath\obj\Debug\StaticMath.pdb

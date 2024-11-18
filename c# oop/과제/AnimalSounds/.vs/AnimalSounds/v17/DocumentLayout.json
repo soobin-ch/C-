@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|c:\\users\\soobi\\source\\repos\\myname\\animalsounds\\animalsounds\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486245D-3013-4885-A5CE-1F8EF6389AEB}|AnimalSounds\\AnimalSounds.csproj|solutionrelative:animalsounds\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Duck.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Duck.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Duck.cs",
+              "RelativeToolTip": "AnimalSounds\\Duck.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:22:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Dog.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Dog.cs",
+              "RelativeToolTip": "AnimalSounds\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:21:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Cat.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Cat.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Cat.cs",
+              "RelativeToolTip": "AnimalSounds\\Cat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:14:59.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.Designer.cs",
+              "RelativeToolTip": "AnimalSounds\\Form1.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAxwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:56:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Form1.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.cs",
+              "RelativeToolTip": "AnimalSounds\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:52:57.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alien.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Alien.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Alien.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Alien.cs",
+              "RelativeToolTip": "AnimalSounds\\Alien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:46:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Animal.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Animal.cs",
+              "RelativeToolTip": "AnimalSounds\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:39:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.cs",
+              "RelativeDocumentMoniker": "AnimalSounds\\Form1.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\AnimalSounds\\AnimalSounds\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AnimalSounds\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:29:34.284Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

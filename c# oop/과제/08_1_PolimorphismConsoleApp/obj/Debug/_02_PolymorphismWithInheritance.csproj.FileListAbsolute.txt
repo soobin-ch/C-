@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\bin\Debug\_02_PolymorphismWithInheritance.exe.config
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\bin\Debug\_02_PolymorphismWithInheritance.exe
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\bin\Debug\_02_PolymorphismWithInheritance.pdb
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\obj\Debug\_02_PolymorphismWithInheritance.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\obj\Debug\_02_PolymorphismWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\obj\Debug\_02_PolymorphismWithInheritance.exe
+C:\Users\soobi\source\repos\MyName\_08_1_PolymorphismConsoleApp\_02_PolymorphismWithInheritance\obj\Debug\_02_PolymorphismWithInheritance.pdb

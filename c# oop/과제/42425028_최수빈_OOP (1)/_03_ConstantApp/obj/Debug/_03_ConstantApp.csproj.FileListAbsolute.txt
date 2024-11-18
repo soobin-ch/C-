@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\bin\Debug\_03_ConstantApp.exe.config
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\bin\Debug\_03_ConstantApp.exe
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\bin\Debug\_03_ConstantApp.pdb
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\obj\Debug\_03_ConstantApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\obj\Debug\_03_ConstantApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\obj\Debug\_03_ConstantApp.exe
+C:\Users\user\Downloads\_10_StaticMembers\_03_ConstantApp\obj\Debug\_03_ConstantApp.pdb

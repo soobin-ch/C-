@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\bin\Debug\_04_ReadOnlyApp.exe.config
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\bin\Debug\_04_ReadOnlyApp.exe
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\bin\Debug\_04_ReadOnlyApp.pdb
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\obj\Debug\_04_ReadOnlyApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\obj\Debug\_04_ReadOnlyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\obj\Debug\_04_ReadOnlyApp.exe
+C:\Users\user\Downloads\_10_StaticMembers\_04_ReadOnlyApp\obj\Debug\_04_ReadOnlyApp.pdb

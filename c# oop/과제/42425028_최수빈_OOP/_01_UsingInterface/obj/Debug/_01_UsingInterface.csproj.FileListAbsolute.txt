@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\bin\Debug\_01_UsingInterface.exe.config
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\bin\Debug\_01_UsingInterface.exe
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\bin\Debug\_01_UsingInterface.pdb
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\obj\Debug\_01_UsingInterface.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\obj\Debug\_01_UsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\obj\Debug\_01_UsingInterface.exe
+C:\Users\user\source\repos\_09_MultiInheritance\_01_UsingInterface\obj\Debug\_01_UsingInterface.pdb

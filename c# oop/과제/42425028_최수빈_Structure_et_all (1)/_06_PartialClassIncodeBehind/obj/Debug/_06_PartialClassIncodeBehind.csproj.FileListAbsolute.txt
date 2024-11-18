@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\bin\Debug\_06_PartialClassIncodeBehind.exe.config
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\bin\Debug\_06_PartialClassIncodeBehind.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\bin\Debug\_06_PartialClassIncodeBehind.pdb
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.Form1.resources
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.Properties.Resources.resources
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_06_PartialClassIncodeBehind\obj\Debug\_06_PartialClassIncodeBehind.pdb

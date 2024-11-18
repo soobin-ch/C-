@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\bin\Debug\_02_EncapsulationUsingMethod.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\bin\Debug\_02_EncapsulationUsingMethod.exe
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\bin\Debug\_02_EncapsulationUsingMethod.pdb
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\obj\Debug\_02_EncapsulationUsingMethod.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\obj\Debug\_02_EncapsulationUsingMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\obj\Debug\_02_EncapsulationUsingMethod.exe
+C:\Users\user\Downloads\_06_Encapsulation\_02_EncapsulationUsingMethod\obj\Debug\_02_EncapsulationUsingMethod.pdb

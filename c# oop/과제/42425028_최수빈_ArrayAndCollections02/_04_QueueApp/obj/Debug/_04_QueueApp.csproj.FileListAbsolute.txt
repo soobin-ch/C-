@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\bin\Debug\_04_QueueApp.exe.config
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\bin\Debug\_04_QueueApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\bin\Debug\_04_QueueApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\obj\Debug\_04_QueueApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\obj\Debug\_04_QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\obj\Debug\_04_QueueApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_2\_12_ArrayAndCollections_2\_04_QueueApp\obj\Debug\_04_QueueApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\bin\Debug\MusicianManagerWin.exe.config
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\bin\Debug\MusicianManagerWin.exe
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\bin\Debug\MusicianManagerWin.pdb
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.Form1.resources
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.Properties.Resources.resources
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.exe
+C:\Users\soobi\source\repos\MyName\MusicianManagerWin\MusicianManagerWin\obj\Debug\MusicianManagerWin.pdb

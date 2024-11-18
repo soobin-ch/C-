@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_EncapsulationConsoleApp", "_01_EncapsulationConsoleApp\_01_EncapsulationConsoleApp.csproj", "{CB0242F9-8085-40B5-96C2-401BB4DC581D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_EncapsulationUsingMethod", "_02_EncapsulationUsingMethod\_02_EncapsulationUsingMethod.csproj", "{C18CE519-9867-46BC-935E-2F985E1E1960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_ EncapsulationUsingProperty", "_03_ EncapsulationUsingProperty\_03_ EncapsulationUsingProperty.csproj", "{99AD2F64-22CD-457E-8CE8-3D89DC3882FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_1_AutoImplementedProperties", "_03_1_AutoImplementedProperties\_03_1_AutoImplementedProperties.csproj", "{ECC5F29A-7988-44FA-A822-455D4BCDA049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager", "CarManager\CarManager.csproj", "{50ED44A6-7EC1-4FE1-9EBD-DAD0141F8EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_EncapsulationWithInheritance", "_04_EncapsulationWithInheritance\_04_EncapsulationWithInheritance.csproj", "{71D99BAB-698D-48C3-9D8F-CFAF459AA5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_EncapsulationWindow", "_05_EncapsulationWindow\_05_EncapsulationWindow.csproj", "{0A830424-2AD1-4557-A078-5AD08A941EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0242F9-8085-40B5-96C2-401BB4DC581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0242F9-8085-40B5-96C2-401BB4DC581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0242F9-8085-40B5-96C2-401BB4DC581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0242F9-8085-40B5-96C2-401BB4DC581D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18CE519-9867-46BC-935E-2F985E1E1960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18CE519-9867-46BC-935E-2F985E1E1960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18CE519-9867-46BC-935E-2F985E1E1960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18CE519-9867-46BC-935E-2F985E1E1960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AD2F64-22CD-457E-8CE8-3D89DC3882FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AD2F64-22CD-457E-8CE8-3D89DC3882FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AD2F64-22CD-457E-8CE8-3D89DC3882FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AD2F64-22CD-457E-8CE8-3D89DC3882FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC5F29A-7988-44FA-A822-455D4BCDA049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC5F29A-7988-44FA-A822-455D4BCDA049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC5F29A-7988-44FA-A822-455D4BCDA049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC5F29A-7988-44FA-A822-455D4BCDA049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ED44A6-7EC1-4FE1-9EBD-DAD0141F8EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ED44A6-7EC1-4FE1-9EBD-DAD0141F8EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ED44A6-7EC1-4FE1-9EBD-DAD0141F8EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ED44A6-7EC1-4FE1-9EBD-DAD0141F8EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D99BAB-698D-48C3-9D8F-CFAF459AA5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D99BAB-698D-48C3-9D8F-CFAF459AA5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D99BAB-698D-48C3-9D8F-CFAF459AA5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D99BAB-698D-48C3-9D8F-CFAF459AA5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A830424-2AD1-4557-A078-5AD08A941EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A830424-2AD1-4557-A078-5AD08A941EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A830424-2AD1-4557-A078-5AD08A941EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A830424-2AD1-4557-A078-5AD08A941EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EACC62B-7DE3-4DCD-A465-0F241BC2D4B9}
+	EndGlobalSection
+EndGlobal

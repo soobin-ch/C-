@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.pdb
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.ChallengeForm.resources
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.Properties.Resources.resources
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.exe
+C:\Users\soobi\source\repos\MyName\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.pdb

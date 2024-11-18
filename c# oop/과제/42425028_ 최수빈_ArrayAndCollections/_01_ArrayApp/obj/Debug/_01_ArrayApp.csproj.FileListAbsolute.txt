@@ -1,0 +1,13 @@
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.exe.config
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.exe
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.pdb
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.csprojAssemblyReference.cache
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.exe
+D:\Programming\2020-OOP\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.exe.config
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\bin\Debug\_01_ArrayApp.pdb
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.exe
+C:\Users\user\Downloads\_12_ArrayAndCollections_1\_01_ArrayApp\obj\Debug\_01_ArrayApp.pdb

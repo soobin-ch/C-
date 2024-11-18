@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.exe
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.pdb
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.exe
+C:\Users\user\Downloads\_06_Encapsulation\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.pdb
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.exe
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\bin\Debug\_01_EncapsulationConsoleApp.pdb
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.exe
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_01_EncapsulationConsoleApp\obj\Debug\_01_EncapsulationConsoleApp.pdb

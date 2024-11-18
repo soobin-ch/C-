@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_methodoverridingwithabstractmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|c:\\users\\soobi\\downloads\\_07_2_methodoverriding_windowsapp\\_05_methodoverridingwithabstractmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_methodoverridingwithabstractmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_methodoverridingwithabstractmethod\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|c:\\users\\soobi\\downloads\\_07_2_methodoverriding_windowsapp\\_05_methodoverridingwithabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_methodoverridingwithabstractmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_methodoverridingwithabstractmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53460A89-3210-4602-8BCE-7E57C2A21F05}|_05_MethodOverridingWithAbstractMethod\\_05_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_05_methodoverridingwithabstractmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_methodoverridingwithvirtualmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B9BC4AD-C99A-43AC-91A9-272C4E279064}|_04_MethodOverridingWithVirtualMethod\\_04_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_04_methodoverridingwithvirtualmethod\\shapeareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Program.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Program.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:02:48.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShapeAreaForm.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:01:02.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Rectangle.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Rectangle.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\Rectangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:51:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:51:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:52:05.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Rectangle.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Rectangle.cs",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:01:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Triangle.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\Triangle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Triangle.cs",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:02:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeAreaForm.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:14:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:02:14.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Triangle.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\Triangle.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\Triangle.cs",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:51:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:01:41.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShapeAreaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "RelativeDocumentMoniker": "_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs [Design]",
+              "RelativeToolTip": "_05_MethodOverridingWithAbstractMethod\\ShapeAreaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:08:12.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShapeAreaForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "RelativeDocumentMoniker": "_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_07_2_MethodOverriding_WindowsApp\\_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "_04_MethodOverridingWithVirtualMethod\\ShapeAreaForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:56:26.533Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

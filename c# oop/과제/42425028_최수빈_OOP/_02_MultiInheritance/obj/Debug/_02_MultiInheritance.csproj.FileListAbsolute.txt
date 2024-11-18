@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\bin\Debug\_02_MultiInheritance.exe.config
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\bin\Debug\_02_MultiInheritance.exe
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\bin\Debug\_02_MultiInheritance.pdb
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\obj\Debug\_02_MultiInheritance.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\obj\Debug\_02_MultiInheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\obj\Debug\_02_MultiInheritance.exe
+C:\Users\user\source\repos\_09_MultiInheritance\_02_MultiInheritance\obj\Debug\_02_MultiInheritance.pdb

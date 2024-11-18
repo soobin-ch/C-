@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.exe
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.pdb
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.exe
+C:\Users\user\Downloads\_06_Encapsulation\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.pdb
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.exe
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\bin\Debug\_03_ EncapsulationUsingProperty.pdb
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.exe
+C:\Users\user\Downloads\_06_Encapsulation\42425028_20241017_캡슐화_최수빈\_03_ EncapsulationUsingProperty\obj\Debug\_03_ EncapsulationUsingProperty.pdb

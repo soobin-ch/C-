@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_03_methodoverridingwithabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_03_methodoverridingwithabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_03_methodoverridingwithabstractmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_03_methodoverridingwithabstractmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_03_methodoverridingwithabstractmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E606EC68-3CE9-41AD-84B2-E55734FA2741}|_03_MethodOverridingWithAbstractMethod\\_03_MethodOverridingWithAbstractMethod.csproj|solutionrelative:_03_methodoverridingwithabstractmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_02_methodoverridingwithvirtualmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_02_methodoverridingwithvirtualmethod\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_02_methodoverridingwithvirtualmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_02_methodoverridingwithvirtualmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|d:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_methodoverriding_console\\_02_methodoverridingwithvirtualmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F0B65F-B9E8-408F-BE8A-D9DF906DC682}|_02_MethodOverridingWithVirtualMethod\\_02_MethodOverridingWithVirtualMethod.csproj|solutionrelative:_02_methodoverridingwithvirtualmethod\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "RelativeDocumentMoniker": "_03_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "RelativeToolTip": "_03_MethodOverridingWithAbstractMethod\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:50:16.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "RelativeDocumentMoniker": "_03_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "RelativeToolTip": "_03_MethodOverridingWithAbstractMethod\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:50:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Program.cs",
+              "RelativeDocumentMoniker": "_03_MethodOverridingWithAbstractMethod\\Program.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_03_MethodOverridingWithAbstractMethod\\Program.cs",
+              "RelativeToolTip": "_03_MethodOverridingWithAbstractMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:49:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Program.cs",
+              "RelativeDocumentMoniker": "_02_MethodOverridingWithVirtualMethod\\Program.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Program.cs",
+              "RelativeToolTip": "_02_MethodOverridingWithVirtualMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:28:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "RelativeDocumentMoniker": "_02_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "RelativeToolTip": "_02_MethodOverridingWithVirtualMethod\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:25:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "RelativeDocumentMoniker": "_02_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "ToolTip": "D:\\c#\\c# oop\\\uACFC\uC81C\\_07_1_MethodOverriding_Console\\_02_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "RelativeToolTip": "_02_MethodOverridingWithVirtualMethod\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:25:52.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

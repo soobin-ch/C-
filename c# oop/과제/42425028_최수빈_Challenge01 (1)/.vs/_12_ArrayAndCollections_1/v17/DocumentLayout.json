@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|c:\\users\\soobi\\downloads\\_12_arrayandcollections_1\\_12_arrayandcollections_1\\challenge1_scorehandle\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|solutionrelative:challenge1_scorehandle\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|c:\\users\\soobi\\downloads\\_12_arrayandcollections_1\\_12_arrayandcollections_1\\challenge1_scorehandle\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|solutionrelative:challenge1_scorehandle\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|c:\\users\\soobi\\downloads\\_12_arrayandcollections_1\\_12_arrayandcollections_1\\challenge1_scorehandle\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|solutionrelative:challenge1_scorehandle\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|c:\\users\\soobi\\downloads\\_12_arrayandcollections_1\\_12_arrayandcollections_1\\challenge1_scorehandle\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF1002-C2E2-4441-9E5C-F7EEBD7E6BA9}|Challenge1_ScoreHandle\\Challenge1_ScoreHandle.csproj|solutionrelative:challenge1_scorehandle\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\Credit.cs",
+              "RelativeDocumentMoniker": "Challenge1_ScoreHandle\\Credit.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\Credit.cs",
+              "RelativeToolTip": "Challenge1_ScoreHandle\\Credit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:33:02.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\Student.cs",
+              "RelativeDocumentMoniker": "Challenge1_ScoreHandle\\Student.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\Student.cs",
+              "RelativeToolTip": "Challenge1_ScoreHandle\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:57:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreForm.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "Challenge1_ScoreHandle\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\ScoreForm.cs",
+              "RelativeToolTip": "Challenge1_ScoreHandle\\ScoreForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:56:42.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "Challenge1_ScoreHandle\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\soobi\\Downloads\\_12_ArrayAndCollections_1\\_12_ArrayAndCollections_1\\Challenge1_ScoreHandle\\ScoreForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Challenge1_ScoreHandle\\ScoreForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:38:33.843Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

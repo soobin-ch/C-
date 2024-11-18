@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\bin\Debug\_03_IsOperator.exe.config
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\bin\Debug\_03_IsOperator.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\bin\Debug\_03_IsOperator.pdb
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\obj\Debug\_03_IsOperator.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\obj\Debug\_03_IsOperator.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\obj\Debug\_03_IsOperator.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_03_IsOperator\obj\Debug\_03_IsOperator.pdb

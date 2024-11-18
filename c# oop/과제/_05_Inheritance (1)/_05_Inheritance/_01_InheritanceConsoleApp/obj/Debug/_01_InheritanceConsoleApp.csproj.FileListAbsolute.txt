@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.exe.config
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.exe
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.pdb
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.exe
+C:\Users\user\Desktop\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.pdb
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.exe.config
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.exe
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\bin\Debug\_01_InheritanceConsoleApp.pdb
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.exe
+C:\Users\user\Videos\_05_Inheritance\_01_InheritanceConsoleApp\obj\Debug\_01_InheritanceConsoleApp.pdb

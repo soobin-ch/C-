@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|c:\\users\\soobi\\source\\repos\\myname\\pegasusapp\\pegasusapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|solutionrelative:pegasusapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|c:\\users\\soobi\\source\\repos\\myname\\pegasusapp\\pegasusapp\\pegasus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|solutionrelative:pegasusapp\\pegasus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|c:\\users\\soobi\\source\\repos\\myname\\pegasusapp\\pegasusapp\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|solutionrelative:pegasusapp\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|c:\\users\\soobi\\source\\repos\\myname\\pegasusapp\\pegasusapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|solutionrelative:pegasusapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|c:\\users\\soobi\\source\\repos\\myname\\pegasusapp\\pegasusapp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FDB638-7285-4189-81A9-7121BFE25889}|PegasusApp\\PegasusApp.csproj|solutionrelative:pegasusapp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pegasus.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Pegasus.cs",
+              "RelativeDocumentMoniker": "PegasusApp\\Pegasus.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Pegasus.cs",
+              "RelativeToolTip": "PegasusApp\\Pegasus.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:13:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Horse.cs",
+              "RelativeDocumentMoniker": "PegasusApp\\Horse.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Horse.cs",
+              "RelativeToolTip": "PegasusApp\\Horse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:12:27.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Bird.cs",
+              "RelativeDocumentMoniker": "PegasusApp\\Bird.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Bird.cs",
+              "RelativeToolTip": "PegasusApp\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:11:38.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Animal.cs",
+              "RelativeDocumentMoniker": "PegasusApp\\Animal.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Animal.cs",
+              "RelativeToolTip": "PegasusApp\\Animal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:06:53.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Program.cs",
+              "RelativeDocumentMoniker": "PegasusApp\\Program.cs",
+              "ToolTip": "C:\\Users\\soobi\\source\\repos\\MyName\\PegasusApp\\PegasusApp\\Program.cs",
+              "RelativeToolTip": "PegasusApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:05:56.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

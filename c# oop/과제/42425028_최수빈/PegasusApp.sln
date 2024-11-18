@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PegasusApp", "PegasusApp\PegasusApp.csproj", "{D3FDB638-7285-4189-81A9-7121BFE25889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FDB638-7285-4189-81A9-7121BFE25889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FDB638-7285-4189-81A9-7121BFE25889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FDB638-7285-4189-81A9-7121BFE25889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FDB638-7285-4189-81A9-7121BFE25889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F60BB7-4B69-445B-B1E8-9A9C7D2A8F11}
+	EndGlobalSection
+EndGlobal

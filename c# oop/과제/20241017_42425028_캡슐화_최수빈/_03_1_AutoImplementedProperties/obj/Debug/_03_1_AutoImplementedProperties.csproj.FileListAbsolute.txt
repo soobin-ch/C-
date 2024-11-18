@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\bin\Debug\_03_1_AutoImplementedProperties.exe.config
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\bin\Debug\_03_1_AutoImplementedProperties.exe
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\bin\Debug\_03_1_AutoImplementedProperties.pdb
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\obj\Debug\_03_1_AutoImplementedProperties.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\obj\Debug\_03_1_AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\obj\Debug\_03_1_AutoImplementedProperties.exe
+C:\Users\user\Downloads\_06_Encapsulation\_03_1_AutoImplementedProperties\obj\Debug\_03_1_AutoImplementedProperties.pdb

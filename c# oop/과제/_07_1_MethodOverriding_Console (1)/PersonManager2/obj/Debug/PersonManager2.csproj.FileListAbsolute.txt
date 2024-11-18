@@ -1,0 +1,7 @@
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\bin\Debug\PersonManager2.exe.config
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\bin\Debug\PersonManager2.exe
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\bin\Debug\PersonManager2.pdb
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\obj\Debug\PersonManager2.csproj.AssemblyReference.cache
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\obj\Debug\PersonManager2.csproj.CoreCompileInputs.cache
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\obj\Debug\PersonManager2.exe
+C:\Users\soobi\Downloads\_07_1_MethodOverriding_Console\_07_1_MethodOverriding_Console\PersonManager2\obj\Debug\PersonManager2.pdb

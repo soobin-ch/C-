@@ -1,0 +1,7 @@
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\bin\Debug\_04_AsOperator.exe.config
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\bin\Debug\_04_AsOperator.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\bin\Debug\_04_AsOperator.pdb
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\obj\Debug\_04_AsOperator.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\obj\Debug\_04_AsOperator.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\obj\Debug\_04_AsOperator.exe
+C:\Users\soobi\source\repos\MyName\_11_Structure_et_all\_04_AsOperator\obj\Debug\_04_AsOperator.pdb
