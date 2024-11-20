@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\bin\Debug\_03_IndexerApp.exe.config
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\bin\Debug\_03_IndexerApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\bin\Debug\_03_IndexerApp.pdb
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\obj\Debug\_03_IndexerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\obj\Debug\_03_IndexerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\obj\Debug\_03_IndexerApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_03_IndexerApp\obj\Debug\_03_IndexerApp.pdb

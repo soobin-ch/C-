@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\bin\Debug\_04_IteratorApp.exe.config
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\bin\Debug\_04_IteratorApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\bin\Debug\_04_IteratorApp.pdb
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\obj\Debug\_04_IteratorApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\obj\Debug\_04_IteratorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\obj\Debug\_04_IteratorApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_04_IteratorApp\obj\Debug\_04_IteratorApp.pdb

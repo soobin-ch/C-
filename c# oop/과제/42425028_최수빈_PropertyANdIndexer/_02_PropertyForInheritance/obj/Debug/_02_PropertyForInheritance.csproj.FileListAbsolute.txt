@@ -1,0 +1,7 @@
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\bin\Debug\_02_PropertyForInheritance.exe.config
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\bin\Debug\_02_PropertyForInheritance.exe
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\bin\Debug\_02_PropertyForInheritance.pdb
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\obj\Debug\_02_PropertyForInheritance.csproj.AssemblyReference.cache
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\obj\Debug\_02_PropertyForInheritance.csproj.CoreCompileInputs.cache
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\obj\Debug\_02_PropertyForInheritance.exe
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInheritance\obj\Debug\_02_PropertyForInheritance.pdb

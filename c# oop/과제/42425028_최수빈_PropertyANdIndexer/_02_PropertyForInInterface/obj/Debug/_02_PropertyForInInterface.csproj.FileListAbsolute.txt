@@ -1,0 +1,7 @@
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\bin\Debug\_02_PropertyForInInterface.exe.config
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\bin\Debug\_02_PropertyForInInterface.exe
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\bin\Debug\_02_PropertyForInInterface.pdb
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\obj\Debug\_02_PropertyForInInterface.csproj.AssemblyReference.cache
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\obj\Debug\_02_PropertyForInInterface.csproj.CoreCompileInputs.cache
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\obj\Debug\_02_PropertyForInInterface.exe
+D:\c#\c# oop\과제\_13_PropertyAndIndexer\_02_PropertyForInInterface\obj\Debug\_02_PropertyForInInterface.pdb

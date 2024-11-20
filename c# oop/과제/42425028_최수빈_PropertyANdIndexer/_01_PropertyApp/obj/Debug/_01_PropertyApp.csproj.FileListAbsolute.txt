@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\bin\Debug\_01_PropertyApp.exe.config
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\bin\Debug\_01_PropertyApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\bin\Debug\_01_PropertyApp.pdb
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\obj\Debug\_01_PropertyApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\obj\Debug\_01_PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\obj\Debug\_01_PropertyApp.exe
+C:\Users\user\source\repos\_13_PropertyAndIndexer\_01_PropertyApp\obj\Debug\_01_PropertyApp.pdb
