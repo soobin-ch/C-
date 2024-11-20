@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\bin\Debug\_07_MultipleException.exe.config
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\bin\Debug\_07_MultipleException.exe
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\bin\Debug\_07_MultipleException.pdb
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\obj\Debug\_07_MultipleException.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\obj\Debug\_07_MultipleException.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\obj\Debug\_07_MultipleException.exe
+C:\Users\user\source\repos\_15_Exception\_07_MultipleException\obj\Debug\_07_MultipleException.pdb

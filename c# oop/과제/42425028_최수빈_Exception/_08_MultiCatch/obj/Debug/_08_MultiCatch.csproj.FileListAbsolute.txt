@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\bin\Debug\_08_MultiCatch.exe.config
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\bin\Debug\_08_MultiCatch.exe
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\bin\Debug\_08_MultiCatch.pdb
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\obj\Debug\_08_MultiCatch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\obj\Debug\_08_MultiCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\obj\Debug\_08_MultiCatch.exe
+C:\Users\user\source\repos\_15_Exception\_08_MultiCatch\obj\Debug\_08_MultiCatch.pdb

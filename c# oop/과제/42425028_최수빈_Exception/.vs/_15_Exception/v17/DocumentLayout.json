@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\_15_Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391F1520-0E46-42A5-A58D-0CF61A32D334}|_08_MultiCatch\\_08_MultiCatch.csproj|c:\\users\\user\\source\\repos\\_15_exception\\_08_multicatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391F1520-0E46-42A5-A58D-0CF61A32D334}|_08_MultiCatch\\_08_MultiCatch.csproj|solutionrelative:_08_multicatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AB5559-38C7-446E-A982-A2B7DA6864AA}|_07_MultipleException\\_07_MultipleException.csproj|c:\\users\\user\\source\\repos\\_15_exception\\_07_multipleexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AB5559-38C7-446E-A982-A2B7DA6864AA}|_07_MultipleException\\_07_MultipleException.csproj|solutionrelative:_07_multipleexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7561BD6-5637-4ABF-9256-9DE34869329E}|_06_TryCatchMain\\_06_TryCatchMain.csproj|c:\\users\\user\\source\\repos\\_15_exception\\_06_trycatchmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7561BD6-5637-4ABF-9256-9DE34869329E}|_06_TryCatchMain\\_06_TryCatchMain.csproj|solutionrelative:_06_trycatchmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552CB3CA-DB92-4A00-94E9-78926729AA1E}|_05_Rethrow\\_05_Rethrow.csproj|C:\\Users\\user\\source\\repos\\_15_Exception\\_05_rethrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552CB3CA-DB92-4A00-94E9-78926729AA1E}|_05_Rethrow\\_05_Rethrow.csproj|solutionrelative:_05_rethrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF911BA-D23C-4C5B-9091-C65286203BB7}|_04_ThrowIndexOutOfRangeException\\_04_ThrowIndexOutOfRangeException.csproj|c:\\users\\user\\source\\repos\\_15_exception\\_04_throwindexoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF911BA-D23C-4C5B-9091-C65286203BB7}|_04_ThrowIndexOutOfRangeException\\_04_ThrowIndexOutOfRangeException.csproj|solutionrelative:_04_throwindexoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552CB3CA-DB92-4A00-94E9-78926729AA1E}|_05_Rethrow\\_05_Rethrow.csproj|C:\\Users\\user\\source\\repos\\_15_Exception\\_05_rethrow\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552CB3CA-DB92-4A00-94E9-78926729AA1E}|_05_Rethrow\\_05_Rethrow.csproj|solutionrelative:_05_rethrow\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7561BD6-5637-4ABF-9256-9DE34869329E}|_06_TryCatchMain\\_06_TryCatchMain.csproj|c:\\users\\user\\source\\repos\\_15_exception\\_06_trycatchmain\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7561BD6-5637-4ABF-9256-9DE34869329E}|_06_TryCatchMain\\_06_TryCatchMain.csproj|solutionrelative:_06_trycatchmain\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DAE4F4-A70C-484B-9EB5-AFE29FB48AD2}|_03_ThrowExceptionBasic\\_03_ThrowExceptionBasic.csproj|C:\\Users\\user\\source\\repos\\_15_Exception\\_03_throwexceptionbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DAE4F4-A70C-484B-9EB5-AFE29FB48AD2}|_03_ThrowExceptionBasic\\_03_ThrowExceptionBasic.csproj|solutionrelative:_03_throwexceptionbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A3D40C-B991-4EF8-B094-ED2AFE532081}|_01_TryCatch\\_01_TryCatch.csproj|C:\\Users\\user\\source\\repos\\_15_Exception\\_01_trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A3D40C-B991-4EF8-B094-ED2AFE532081}|_01_TryCatch\\_01_TryCatch.csproj|solutionrelative:_01_trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA81036D-5E10-4A42-B810-ABE8C5B2E3C7}|_02_TryCatchFinally\\_02_TryCatchFinally.csproj|C:\\Users\\user\\source\\repos\\_15_Exception\\_02_trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA81036D-5E10-4A42-B810-ABE8C5B2E3C7}|_02_TryCatchFinally\\_02_TryCatchFinally.csproj|solutionrelative:_02_trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_08_MultiCatch\\Program.cs",
+              "RelativeDocumentMoniker": "_08_MultiCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_08_MultiCatch\\Program.cs",
+              "RelativeToolTip": "_08_MultiCatch\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:05:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_07_MultipleException\\Program.cs",
+              "RelativeDocumentMoniker": "_07_MultipleException\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_07_MultipleException\\Program.cs",
+              "RelativeToolTip": "_07_MultipleException\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:51:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Top.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_06_TryCatchMain\\Top.cs",
+              "RelativeDocumentMoniker": "_06_TryCatchMain\\Top.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_06_TryCatchMain\\Top.cs",
+              "RelativeToolTip": "_06_TryCatchMain\\Top.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:49:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_06_TryCatchMain\\Program.cs",
+              "RelativeDocumentMoniker": "_06_TryCatchMain\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_06_TryCatchMain\\Program.cs",
+              "RelativeToolTip": "_06_TryCatchMain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:48:52.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Top.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_05_Rethrow\\Top.cs",
+              "RelativeDocumentMoniker": "_05_Rethrow\\Top.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_05_Rethrow\\Top.cs",
+              "RelativeToolTip": "_05_Rethrow\\Top.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:18:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_05_Rethrow\\Program.cs",
+              "RelativeDocumentMoniker": "_05_Rethrow\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_05_Rethrow\\Program.cs",
+              "RelativeToolTip": "_05_Rethrow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:15:33.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_04_ThrowIndexOutOfRangeException\\Program.cs",
+              "RelativeDocumentMoniker": "_04_ThrowIndexOutOfRangeException\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_04_ThrowIndexOutOfRangeException\\Program.cs",
+              "RelativeToolTip": "_04_ThrowIndexOutOfRangeException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:10:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_03_ThrowExceptionBasic\\Program.cs",
+              "RelativeDocumentMoniker": "_03_ThrowExceptionBasic\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_03_ThrowExceptionBasic\\Program.cs",
+              "RelativeToolTip": "_03_ThrowExceptionBasic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:04:09.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_02_TryCatchFinally\\Program.cs",
+              "RelativeDocumentMoniker": "_02_TryCatchFinally\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_02_TryCatchFinally\\Program.cs",
+              "RelativeToolTip": "_02_TryCatchFinally\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:52:43.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_15_Exception\\_01_TryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "_01_TryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_15_Exception\\_01_TryCatch\\Program.cs",
+              "RelativeToolTip": "_01_TryCatch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:49:19.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

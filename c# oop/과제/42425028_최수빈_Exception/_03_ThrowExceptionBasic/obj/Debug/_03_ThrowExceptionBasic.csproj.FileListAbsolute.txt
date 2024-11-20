@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\obj\Debug\_03_ThrowExceptionBasic.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\obj\Debug\_03_ThrowExceptionBasic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\bin\Debug\_03_ThrowExceptionBasic.exe.config
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\bin\Debug\_03_ThrowExceptionBasic.exe
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\bin\Debug\_03_ThrowExceptionBasic.pdb
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\obj\Debug\_03_ThrowExceptionBasic.exe
+C:\Users\user\source\repos\_15_Exception\_03_ThrowExceptionBasic\obj\Debug\_03_ThrowExceptionBasic.pdb

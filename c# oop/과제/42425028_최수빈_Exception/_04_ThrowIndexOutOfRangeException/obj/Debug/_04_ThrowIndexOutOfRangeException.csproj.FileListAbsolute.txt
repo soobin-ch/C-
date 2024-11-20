@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\obj\Debug\_04_ThrowIndexOutOfRangeException.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\obj\Debug\_04_ThrowIndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\bin\Debug\_04_ThrowIndexOutOfRangeException.exe.config
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\bin\Debug\_04_ThrowIndexOutOfRangeException.exe
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\bin\Debug\_04_ThrowIndexOutOfRangeException.pdb
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\obj\Debug\_04_ThrowIndexOutOfRangeException.exe
+C:\Users\user\source\repos\_15_Exception\_04_ThrowIndexOutOfRangeException\obj\Debug\_04_ThrowIndexOutOfRangeException.pdb

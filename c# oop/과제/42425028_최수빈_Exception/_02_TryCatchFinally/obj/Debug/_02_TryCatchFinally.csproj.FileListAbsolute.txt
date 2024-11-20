@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\bin\Debug\_02_TryCatchFinally.exe.config
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\bin\Debug\_02_TryCatchFinally.exe
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\bin\Debug\_02_TryCatchFinally.pdb
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\obj\Debug\_02_TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\obj\Debug\_02_TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\obj\Debug\_02_TryCatchFinally.exe
+C:\Users\user\source\repos\_15_Exception\_02_TryCatchFinally\obj\Debug\_02_TryCatchFinally.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\bin\Debug\_05_Rethrow.exe.config
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\bin\Debug\_05_Rethrow.exe
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\bin\Debug\_05_Rethrow.pdb
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\obj\Debug\_05_Rethrow.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\obj\Debug\_05_Rethrow.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\obj\Debug\_05_Rethrow.exe
+C:\Users\user\source\repos\_15_Exception\_05_Rethrow\obj\Debug\_05_Rethrow.pdb
