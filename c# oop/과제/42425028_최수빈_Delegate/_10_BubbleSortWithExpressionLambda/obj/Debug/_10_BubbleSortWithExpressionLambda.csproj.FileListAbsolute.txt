@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\bin\Debug\_10_BubbleSortWithExpressionLambda.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\bin\Debug\_10_BubbleSortWithExpressionLambda.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\bin\Debug\_10_BubbleSortWithExpressionLambda.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\obj\Debug\_10_BubbleSortWithExpressionLambda.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\obj\Debug\_10_BubbleSortWithExpressionLambda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\obj\Debug\_10_BubbleSortWithExpressionLambda.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_10_BubbleSortWithExpressionLambda\obj\Debug\_10_BubbleSortWithExpressionLambda.pdb

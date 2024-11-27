@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\bin\Debug\_09_BubbleSortWithStatementLambda.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\bin\Debug\_09_BubbleSortWithStatementLambda.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\bin\Debug\_09_BubbleSortWithStatementLambda.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\obj\Debug\_09_BubbleSortWithStatementLambda.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\obj\Debug\_09_BubbleSortWithStatementLambda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\obj\Debug\_09_BubbleSortWithStatementLambda.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_09_BubbleSortWithStatementLambda\obj\Debug\_09_BubbleSortWithStatementLambda.pdb

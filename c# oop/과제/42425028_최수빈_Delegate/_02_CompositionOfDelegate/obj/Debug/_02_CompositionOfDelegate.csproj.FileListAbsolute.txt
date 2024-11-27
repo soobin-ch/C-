@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\bin\Debug\_02_CompositionOfDelegate.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\bin\Debug\_02_CompositionOfDelegate.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\bin\Debug\_02_CompositionOfDelegate.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\obj\Debug\_02_CompositionOfDelegate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\obj\Debug\_02_CompositionOfDelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\obj\Debug\_02_CompositionOfDelegate.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_02_CompositionOfDelegate\obj\Debug\_02_CompositionOfDelegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\bin\Debug\_07_BubbleSortWithDelegate.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\bin\Debug\_07_BubbleSortWithDelegate.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\bin\Debug\_07_BubbleSortWithDelegate.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\obj\Debug\_07_BubbleSortWithDelegate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\obj\Debug\_07_BubbleSortWithDelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\obj\Debug\_07_BubbleSortWithDelegate.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_07_BubbleSortWithDelegate\obj\Debug\_07_BubbleSortWithDelegate.pdb

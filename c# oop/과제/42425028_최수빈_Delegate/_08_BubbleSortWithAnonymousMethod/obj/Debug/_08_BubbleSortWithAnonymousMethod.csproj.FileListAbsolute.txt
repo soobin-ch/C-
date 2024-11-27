@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\bin\Debug\_08_BubbleSortWithAnonymousMethod.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\bin\Debug\_08_BubbleSortWithAnonymousMethod.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\bin\Debug\_08_BubbleSortWithAnonymousMethod.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\obj\Debug\_08_BubbleSortWithAnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\obj\Debug\_08_BubbleSortWithAnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\obj\Debug\_08_BubbleSortWithAnonymousMethod.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_08_BubbleSortWithAnonymousMethod\obj\Debug\_08_BubbleSortWithAnonymousMethod.pdb

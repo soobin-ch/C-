@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\bin\Debug\_04_DelegateWithCallback.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\bin\Debug\_04_DelegateWithCallback.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\bin\Debug\_04_DelegateWithCallback.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\obj\Debug\_04_DelegateWithCallback.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\obj\Debug\_04_DelegateWithCallback.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\obj\Debug\_04_DelegateWithCallback.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_04_DelegateWithCallback\obj\Debug\_04_DelegateWithCallback.pdb

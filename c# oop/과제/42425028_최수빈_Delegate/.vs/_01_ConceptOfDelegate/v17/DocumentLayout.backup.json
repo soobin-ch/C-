@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1FE65C-C25A-4CBF-B848-98E046BA049B}|_11_ExpLambdaWithoutArgs\\_11_ExpLambdaWithoutArgs.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_11_explambdawithoutargs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1FE65C-C25A-4CBF-B848-98E046BA049B}|_11_ExpLambdaWithoutArgs\\_11_ExpLambdaWithoutArgs.csproj|solutionrelative:_11_explambdawithoutargs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46476369-F39C-4A37-901C-45A222AF40FD}|_10_BubbleSortWithExpressionLambda\\_10_BubbleSortWithExpressionLambda.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_10_bubblesortwithexpressionlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46476369-F39C-4A37-901C-45A222AF40FD}|_10_BubbleSortWithExpressionLambda\\_10_BubbleSortWithExpressionLambda.csproj|solutionrelative:_10_bubblesortwithexpressionlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A17A937-0D95-4EE3-8EBD-EB4311128882}|_09_BubbleSortWithStatementLambda\\_09_BubbleSortWithStatementLambda.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_09_bubblesortwithstatementlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A17A937-0D95-4EE3-8EBD-EB4311128882}|_09_BubbleSortWithStatementLambda\\_09_BubbleSortWithStatementLambda.csproj|solutionrelative:_09_bubblesortwithstatementlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCBFFF9-97B0-414F-9A66-B6743A11AF74}|_08_BubbleSortWithAnonymousMethod\\_08_BubbleSortWithAnonymousMethod.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_08_bubblesortwithanonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCBFFF9-97B0-414F-9A66-B6743A11AF74}|_08_BubbleSortWithAnonymousMethod\\_08_BubbleSortWithAnonymousMethod.csproj|solutionrelative:_08_bubblesortwithanonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A8301-F554-44CE-AEC9-EE6889AC21CC}|_07_BubbleSortWithDelegate\\_07_BubbleSortWithDelegate.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_07_bubblesortwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A8301-F554-44CE-AEC9-EE6889AC21CC}|_07_BubbleSortWithDelegate\\_07_BubbleSortWithDelegate.csproj|solutionrelative:_07_bubblesortwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A544A-CA66-406A-8E18-391941B2F084}|_06_BubbleSortWithAscDesc\\_06_BubbleSortWithAscDesc.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_06_bubblesortwithascdesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6A544A-CA66-406A-8E18-391941B2F084}|_06_BubbleSortWithAscDesc\\_06_BubbleSortWithAscDesc.csproj|solutionrelative:_06_bubblesortwithascdesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A91FE3-2DF6-480E-9118-81DF9AE48C11}|_04_DelegateWithCallback\\_04_DelegateWithCallback.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_04_delegatewithcallback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A91FE3-2DF6-480E-9118-81DF9AE48C11}|_04_DelegateWithCallback\\_04_DelegateWithCallback.csproj|solutionrelative:_04_delegatewithcallback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63EEF17-490D-496E-AED9-5F5821D43B84}|_05_BubbleSort\\_05_BubbleSort.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_05_bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63EEF17-490D-496E-AED9-5F5821D43B84}|_05_BubbleSort\\_05_BubbleSort.csproj|solutionrelative:_05_bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBB7ACC-8D6E-4177-A7B7-FD8E2EF22017}|_03_DelegateWithoutCallback\\_03_DelegateWithoutCallback.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_03_delegatewithoutcallback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBB7ACC-8D6E-4177-A7B7-FD8E2EF22017}|_03_DelegateWithoutCallback\\_03_DelegateWithoutCallback.csproj|solutionrelative:_03_delegatewithoutcallback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5E3ADF-789E-4203-A99A-1550057E69F6}|_02_CompositionOfDelegate\\_02_CompositionOfDelegate.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_02_compositionofdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5E3ADF-789E-4203-A99A-1550057E69F6}|_02_CompositionOfDelegate\\_02_CompositionOfDelegate.csproj|solutionrelative:_02_compositionofdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABD96D-6216-4296-A86D-82CD3EDBA104}|_01_ConceptOfDelegate\\_01_ConceptOfDelegate.csproj|c:\\users\\user\\source\\repos\\_01_conceptofdelegate\\_01_conceptofdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABD96D-6216-4296-A86D-82CD3EDBA104}|_01_ConceptOfDelegate\\_01_ConceptOfDelegate.csproj|solutionrelative:_01_conceptofdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_11_ExpLambdaWithoutArgs\\Program.cs",
+              "RelativeDocumentMoniker": "_11_ExpLambdaWithoutArgs\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_11_ExpLambdaWithoutArgs\\Program.cs",
+              "RelativeToolTip": "_11_ExpLambdaWithoutArgs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:47:08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_10_BubbleSortWithExpressionLambda\\Program.cs",
+              "RelativeDocumentMoniker": "_10_BubbleSortWithExpressionLambda\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_10_BubbleSortWithExpressionLambda\\Program.cs",
+              "RelativeToolTip": "_10_BubbleSortWithExpressionLambda\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:40:15.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_09_BubbleSortWithStatementLambda\\Program.cs",
+              "RelativeDocumentMoniker": "_09_BubbleSortWithStatementLambda\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_09_BubbleSortWithStatementLambda\\Program.cs",
+              "RelativeToolTip": "_09_BubbleSortWithStatementLambda\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:35:12.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_08_BubbleSortWithAnonymousMethod\\Program.cs",
+              "RelativeDocumentMoniker": "_08_BubbleSortWithAnonymousMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_08_BubbleSortWithAnonymousMethod\\Program.cs",
+              "RelativeToolTip": "_08_BubbleSortWithAnonymousMethod\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:19:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_07_BubbleSortWithDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "_07_BubbleSortWithDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_07_BubbleSortWithDelegate\\Program.cs",
+              "RelativeToolTip": "_07_BubbleSortWithDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:57:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_06_BubbleSortWithAscDesc\\Program.cs",
+              "RelativeDocumentMoniker": "_06_BubbleSortWithAscDesc\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_06_BubbleSortWithAscDesc\\Program.cs",
+              "RelativeToolTip": "_06_BubbleSortWithAscDesc\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:44:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_05_BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "_05_BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_05_BubbleSort\\Program.cs",
+              "RelativeToolTip": "_05_BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:23:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_04_DelegateWithCallback\\Program.cs",
+              "RelativeDocumentMoniker": "_04_DelegateWithCallback\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_04_DelegateWithCallback\\Program.cs",
+              "RelativeToolTip": "_04_DelegateWithCallback\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:15:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_03_DelegateWithoutCallback\\Program.cs",
+              "RelativeDocumentMoniker": "_03_DelegateWithoutCallback\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_03_DelegateWithoutCallback\\Program.cs",
+              "RelativeToolTip": "_03_DelegateWithoutCallback\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:52:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_02_CompositionOfDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "_02_CompositionOfDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_02_CompositionOfDelegate\\Program.cs",
+              "RelativeToolTip": "_02_CompositionOfDelegate\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:43:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_01_ConceptOfDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "_01_ConceptOfDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\_01_ConceptOfDelegate\\_01_ConceptOfDelegate\\Program.cs",
+              "RelativeToolTip": "_01_ConceptOfDelegate\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:35:07.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

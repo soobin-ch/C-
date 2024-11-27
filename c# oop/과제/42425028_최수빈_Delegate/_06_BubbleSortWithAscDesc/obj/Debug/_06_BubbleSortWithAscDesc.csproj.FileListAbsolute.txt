@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\bin\Debug\_06_BubbleSortWithAscDesc.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\bin\Debug\_06_BubbleSortWithAscDesc.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\bin\Debug\_06_BubbleSortWithAscDesc.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\obj\Debug\_06_BubbleSortWithAscDesc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\obj\Debug\_06_BubbleSortWithAscDesc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\obj\Debug\_06_BubbleSortWithAscDesc.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_06_BubbleSortWithAscDesc\obj\Debug\_06_BubbleSortWithAscDesc.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\bin\Debug\_11_ExpLambdaWithoutArgs.exe.config
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\bin\Debug\_11_ExpLambdaWithoutArgs.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\bin\Debug\_11_ExpLambdaWithoutArgs.pdb
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\obj\Debug\_11_ExpLambdaWithoutArgs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\obj\Debug\_11_ExpLambdaWithoutArgs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\obj\Debug\_11_ExpLambdaWithoutArgs.exe
+C:\Users\user\source\repos\_01_ConceptOfDelegate\_11_ExpLambdaWithoutArgs\obj\Debug\_11_ExpLambdaWithoutArgs.pdb
